@@ -1,4 +1,4 @@
-# Convert WMA to MP3
+# Convert ASF(WMA) to MP3
 
 ## Installation
 
